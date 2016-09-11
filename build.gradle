@@ -29,6 +29,7 @@ dependencies {
     compile     'org.seleniumhq.selenium:selenium-java:2.53.1'		// Selenium 2.53.1 нормально работает с FireFox 47.0.1
     compile     group: 'com.codeborne', name: 'selenide', version: '3.9.2'
     compile     group: 'com.google.code.gson', name: 'gson', version: '2.7'
+    compile     group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.21'
 }
 
 
