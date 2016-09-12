@@ -1,0 +1,13 @@
+{
+	"username":	"Vasja",
+	"password":	"parol",
+
+    "search_word":		"scraping python",
+	"fee_type": 		"fixed",				/* fixer or hourly */
+	"experience_level":	"entry",   				/* entry, intermediate, expert */
+	"min_fee":			5,
+	"max_fee":			300,
+
+	"output_path":		".grabupwork",
+	"output_filename":	"jobs_upwork.txt"
+}
